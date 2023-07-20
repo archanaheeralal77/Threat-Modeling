@@ -39,6 +39,7 @@
 8. Do you have transaction signing for critical functionality?
   Transaction signing requires a user to interact with some out of bound device, such as a two factor token calculator or SMS message(OTP) to complete a
   high value transaction
+
  **Example Scenario-1:**
     User 'A' wants to transfer funds. Does the application request User 'A' to provide a One Time Password (OTP) before moving funds?
 
